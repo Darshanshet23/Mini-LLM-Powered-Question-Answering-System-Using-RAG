@@ -1,0 +1,43 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment and dependency files
+.env
+.venv/
+env/
+venv/
+rag_env/
+*.egg-info/
+pip-log.txt
+
+# VSCode and IDE-specific
+.vscode/
+.idea/
+
+# FAISS index files (optional to exclude if large)
+*.faiss
+*.pkl
+
+# HuggingFace and model cache (can be huge)
+.cache/
+~$*
+*.ckpt
+*.pt
+*.bin
+*.onnx
+*.h5
+
+# Ollama model files (if any local)
+~/.ollama/
+
+# Mac/Linux system files
+.DS_Store
+
+# PDF file (optional if not public)
+*.pdf
