@@ -34,13 +34,13 @@ This is a Retrieval-Augmented Generation (RAG) pipeline designed to answer clini
 
 ### 🔹 Query 1:
 **Q:** *Give me the correct coded classification for the following diagnosis: “Recurrent depressive disorder, currently in remission”*  
-**A:** *F33.4*
+**A:** ``` The correct coded classification for 'Recurrent depressive disorder, currently in remission' is F33.4 according to ICD-10.```
 
 ---
 
 ### 🔹 Query 2:
 **Q:** *What are the diagnostic criteria for Obsessive-Compulsive Disorder (OCD)?*  
-**A:** *Obsessions or compulsions must be present most days for 2 weeks.
+**A:**  ```Obsessions or compulsions must be present most days for 2 weeks.
 
 They must cause distress or interfere with activities.
 
@@ -50,7 +50,7 @@ At least one thought or act must still be unsuccessfully resisted.
 
 The thought must not be pleasurable.
 
-Thoughts/images must be repetitive and unpleasant*
+Thoughts/images must be repetitive and unpleasant```
 
 
 ---
