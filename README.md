@@ -5,6 +5,15 @@ This is a Retrieval-Augmented Generation (RAG) pipeline designed to answer clini
 
 ---
 
+## 📁 Repository Structure
+```
+📂 Mini-LLM-Powered-RAG-QA
+├── rag_pipeline.ipynb
+├── README.md
+├── .gitignore
+├── requirements.txt (optional)
+```
+
 ## 🧩 Components
 
 ### 1. Document Ingestion & Chunking
