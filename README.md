@@ -40,17 +40,8 @@ This is a Retrieval-Augmented Generation (RAG) pipeline designed to answer clini
 
 ### 🔹 Query 2:
 **Q:** *What are the diagnostic criteria for Obsessive-Compulsive Disorder (OCD)?*  
-**A:**  ```Obsessions or compulsions must be present most days for 2 weeks.
+**A:**  ``` Obsessions or compulsions must be present on most days for at least 2 consecutive weeks. They must cause significant distress or interfere with daily activities. The thoughts must be recognized as the individual's own. At least one thought or act must be unsuccessfully resisted. The thoughts or acts must not be pleasurable. Obsessions (thoughts/images) must be repetitive, intrusive, and unpleasant. ``` 
 
-They must cause distress or interfere with activities.
-
-The thoughts must be recognized as the individual's own.
-
-At least one thought or act must still be unsuccessfully resisted.
-
-The thought must not be pleasurable.
-
-Thoughts/images must be repetitive and unpleasant```
 
 
 ---
